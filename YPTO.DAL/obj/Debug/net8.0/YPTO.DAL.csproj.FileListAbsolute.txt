@@ -1,4 +1,0 @@
-C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net8.0\YPTO.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net8.0\YPTO.DAL.AssemblyInfoInputs.cache
-C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net8.0\YPTO.DAL.AssemblyInfo.cs
-C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net8.0\YPTO.DAL.csproj.CoreCompileInputs.cache
