@@ -1,0 +1,14 @@
+C:\Users\arunp\source\repos\YPTO.DAL\bin\Debug\net10.0\YPTO.DAL.deps.json
+C:\Users\arunp\source\repos\YPTO.DAL\bin\Debug\net10.0\YPTO.DAL.runtimeconfig.json
+C:\Users\arunp\source\repos\YPTO.DAL\bin\Debug\net10.0\YPTO.DAL.dll
+C:\Users\arunp\source\repos\YPTO.DAL\bin\Debug\net10.0\YPTO.DAL.pdb
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.csproj.AssemblyReference.cache
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.AssemblyInfoInputs.cache
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.AssemblyInfo.cs
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.csproj.CoreCompileInputs.cache
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.dll
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\refint\YPTO.DAL.dll
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.pdb
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\YPTO.DAL.genruntimeconfig.cache
+C:\Users\arunp\source\repos\YPTO.DAL\obj\Debug\net10.0\ref\YPTO.DAL.dll
